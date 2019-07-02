@@ -1,7 +1,7 @@
 # PythonForDataAnalysis
 利用Python进行数据分析(第2版)
 
-## examples 书上示例相关文件
+## examples和datasets 书上示例相关文件
 
 ## Task1（第1-4章）
 第123章代码：PythonAnalysisTask1Ch010203.ipynb  
