@@ -11,6 +11,12 @@
 ## Task2（第5章）
 第5章代码：PythonAnalysisTask2Ch05.ipynb  
 
+## Task3（第6章）
+第5章代码：PythonAnalysisTask3Ch06.ipynb  
+
+## Task4（第7章）
+第5章代码：PythonAnalysisTask4Ch07.ipynb  
+
 ### 其它相关文件
 hello_world.py  
 some_module.py  
