@@ -12,10 +12,13 @@
 第5章代码：PythonAnalysisTask2Ch05.ipynb  
 
 ## Task3（第6章）
-第5章代码：PythonAnalysisTask3Ch06.ipynb  
+第6章代码：PythonAnalysisTask3Ch06.ipynb  
 
 ## Task4（第7章）
-第5章代码：PythonAnalysisTask4Ch07.ipynb  
+第7章代码：PythonAnalysisTask4Ch07.ipynb  
+
+## Task5（第8章）
+第8章代码：PythonAnalysisTask5Ch08.ipynb  
 
 ### 其它相关文件
 hello_world.py  
