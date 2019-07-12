@@ -29,7 +29,7 @@
 
 ## Task8（第9章）
 第9章代码：PythonAnalysisTask8Ch09.ipynb  
-&nbsp;&nbsp;&nbsp;课后练习：PythonAnalysisTask8Exercise.ipynb  
+&nbsp;&nbsp;课后练习：PythonAnalysisTask8Exercise.ipynb  
 
 ## Task9（第11章）
 第11章代码：PythonAnalysisTask9Ch11.ipynb  
