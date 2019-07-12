@@ -27,6 +27,13 @@
 第12章代码：PythonAnalysisTask7Ch12.ipynb  
 &nbsp;&nbsp;&nbsp;&nbsp;课后练习：PythonAnalysisTask7Exercise.ipynb  
 
+## Task8（第9章）
+第9章代码：PythonAnalysisTask8Ch09.ipynb  
+&nbsp;&nbsp;&nbsp;课后练习：PythonAnalysisTask8Exercise.ipynb  
+
+## Task9（第11章）
+第11章代码：PythonAnalysisTask9Ch11.ipynb  
+
 
 ### 其它相关文件
 hello_world.py  
