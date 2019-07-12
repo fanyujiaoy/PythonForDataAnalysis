@@ -25,7 +25,7 @@
 
 ## Task7（第12章）
 第12章代码：PythonAnalysisTask7Ch12.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后练习：PythonAnalysisTask7Exercise.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后练习：PythonAnalysisTask7Exercise.ipynb  
 
 
 ### 其它相关文件
