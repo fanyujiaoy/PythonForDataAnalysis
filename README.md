@@ -20,6 +20,14 @@
 ## Task5（第8章）
 第8章代码：PythonAnalysisTask5Ch08.ipynb  
 
+## Task6（第10章）
+第10章代码：PythonAnalysisTask6Ch10.ipynb  
+
+## Task7（第12章）
+第12章代码：PythonAnalysisTask7Ch12.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后练习：PythonAnalysisTask7Exercise.ipynb  
+
+
 ### 其它相关文件
 hello_world.py  
 some_module.py  
